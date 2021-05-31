@@ -1,0 +1,24 @@
+.heading {
+  position: fixed;
+  text-align: center;
+  border: 2px solid black;
+  margin-left: 700px;
+}
+
+.image {
+  margin-top: 60px;
+  margin-left: 150px;
+  height: 2000px;
+  width: 500px;
+}
+
+.body {
+  background-color: darkgray;
+}
+
+.table2 {
+  position: relative;
+  left: 30px;
+  bottom: 60px;
+  font-size: 30px;
+}
